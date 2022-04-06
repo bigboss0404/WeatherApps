@@ -8,12 +8,13 @@ Daniel Ng Rock Qian 1002163447
 
 Title: Weather Apps
 
-Introduction: This app allows users to check the details of weather in different area, at the same time users are able to save a small memo for that day task purpose.
+Introduction: This app allows users to check the details of weather in different area, and also at the same moment users are able to save their task to a small memo to prevent forgot their daily task.
 
-Objective: Allow users to check weather at anytimes and anywhere, also save their daily tasks for the day
+Objective: Allow users to check weather at anytimes and anywhere, also save their daily tasks for the day.
 
 Feature & Functionalities:
 1) weather checking
-2) memo 
+2) small memo 
 3) simple and clean UI 
 
+References: none.
